@@ -13,13 +13,17 @@ public class MainActivity extends AppCompatActivity {
     String nombres [] = {
         "Charmander",
         "Squirtle",
-        "Bulbasaur"
+        "Bulbasaur",
+        "Hoothoot",
+        "Elekid"
     };
 
     String urls [] = {
         "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
         "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/163.png",
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/239.png"
     };
 
     @Override
